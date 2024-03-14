@@ -1,4 +1,6 @@
+import RegRouter from "./RegRouter";
+
 const App = () => {
-  return <div>App</div>;
+  return <RegRouter />;
 };
 export default App;
