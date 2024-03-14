@@ -30,7 +30,7 @@ const HomePage = () => {
       <div className="space-y-6 text-center">
         <h1 className="text-6xl font-bold">The NPM Registry</h1>
         <p className="mx-auto max-w-600px text-gray-500">
-          The pacakge manager for Javascript. Search and view packages.
+          The package manager for Javascript. Search and view packages.
         </p>
       </div>
       <div className="mx-auto grid grid-cols-4 max-w-[900px] items-stretch gap-4">
